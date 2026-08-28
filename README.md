@@ -1,4 +1,4 @@
-# 光ファイバー糸電話
+# ひかりでんわ
 
 <img src="images/sisaku_kairo.png" width="600">
 
@@ -40,7 +40,7 @@ LEDの明るさを変化させる
 
 1台の装置に送信回路と受信回路の両方を搭載します。  
 
-<img src="images/hikari_denwa_circuit_from_pdf.png" width="600">
+<img src="images/hikari_denwa_circuit_from_pdf.png" width="900">
 
 スライドスイッチで使う回路を切り替えて使います。  
 また、電池の消耗を抑えるため、プッシュボタンを押された時だけ回路に通電するようになっています。
@@ -53,7 +53,7 @@ LEDの明るさを変化させる
 
 2台を光ファイバーで接続して使用します。
 
-<img src="images/kiban.png" width="600">
+<img src="images/kiban.png" height="300"><img src="images/kiban2.png" height="300">
 
 ## 部品表（1台あたり）
 
